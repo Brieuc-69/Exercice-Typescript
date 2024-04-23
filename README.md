@@ -10,16 +10,6 @@
 ```typescript
 console.log(somme(3, 5)); // Devrait afficher 8
 console.log(somme(-1, 1)); // Devrait afficher 0
-2. Produit de deux nombres
-Écris une fonction nommée produit qui prend deux nombres en entrée et retourne leur produit.
-```
-
-💡 Exemple :
-
-```typescript
-Copy code
-console.log(produit(3, 5)); // Devrait afficher 15
-console.log(produit(-1, 1)); // Devrait afficher -1
 ```
 
 ### 2. Moyenne d'un tableau de nombres
@@ -51,5 +41,16 @@ console.log(estPalindrome("hello")); // Devrait afficher false
 Copy code
 console.log(plusGrand([1, 3, 5, 2])); // Devrait afficher 5
 console.log(plusGrand([-1, -5, -3])); // Devrait afficher -1
+```
+
+### 5. Produit de deux nombres
+Écris une fonction nommée produit qui prend deux nombres en entrée et retourne leur produit.
+
+💡 Exemple :
+
+```typescript
+Copy code
+console.log(produit(3, 5)); // Devrait afficher 15
+console.log(produit(-1, 1)); // Devrait afficher -1
 ```
 Ces exercices devraient te donner une bonne base pour commencer à pratiquer en TypeScript. Amuse-toi bien ! Si tu as des questions sur un exercice en particulier ou si tu veux en savoir plus sur une fonctionnalité de TypeScript, n'hésite pas à demander.
